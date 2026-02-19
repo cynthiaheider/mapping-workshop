@@ -20,4 +20,4 @@ Please bring a computer. Datasets for mapping will be provided, but feel free to
 
 ## Rights & reuse
 
-Feel free to reuse contents of this repository under the terms of CC BY-NC-SA.
+Feel free to reuse contents of this repository under the terms of [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/).
